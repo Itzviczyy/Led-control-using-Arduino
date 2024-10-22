@@ -58,9 +58,18 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
+[led on with push button.pdf](https://github.com/user-attachments/files/17474599/led.on.with.push.button.pdf)
 
 ## PROGRAM
+![Screenshot 2024-10-22 155443](https://github.com/user-attachments/assets/33a86e5d-afd9-496e-8073-496f24d2316e)
+
 
 ## OUTPUT
 
-## RESULT
+![Screenshot 2024-10-22 155641](https://github.com/user-attachments/assets/4e97a6c3-8541-42b0-8d3b-313bccd06c91)
+
+![Screenshot 2024-10-22 155659](https://github.com/user-attachments/assets/f7508cb6-81b5-4a94-9a95-c9de6e160811)
+
+# RESULT
+The provided Arduino code illustrates a simple project where an LED is controlled by a push button. Here's how the system works
+Pin 13 is configured as an output to control the LED. This pin sends either a HIGH (on) or LOW
