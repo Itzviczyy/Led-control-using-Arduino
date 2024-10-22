@@ -1,4 +1,8 @@
-# Led-control-using-Arduino
+### NAME: VIGNESH G
+### REG NO: 24900905
+
+
+# EXPERIMENT 1-Led control using Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
@@ -58,17 +62,20 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
-[led on with push button.pdf](https://github.com/user-attachments/files/17474599/led.on.with.push.button.pdf)
+<img src="https://github.com/user-attachments/assets/f46c0b96-97ed-4ac5-9c74-bcce7de9d3cb" width ="500" height="500" />
+
 
 ## PROGRAM
-![Screenshot 2024-10-22 155443](https://github.com/user-attachments/assets/33a86e5d-afd9-496e-8073-496f24d2316e)
+<img src="https://github.com/user-attachments/assets/33a86e5d-afd9-496e-8073-496f24d2316e" width="500" height="500" />
 
 
 ## OUTPUT
+<img src=(https://github.com/user-attachments/assets/cf3bebf5-c5c0-460f-9642-139d8ead85fc)
+
 
 ![Screenshot 2024-10-22 155641](https://github.com/user-attachments/assets/4e97a6c3-8541-42b0-8d3b-313bccd06c91)
 
-![Screenshot 2024-10-22 155659](https://github.com/user-attachments/assets/f7508cb6-81b5-4a94-9a95-c9de6e160811)
+
 
 # RESULT
 The provided Arduino code illustrates a simple project where an LED is controlled by a push button. Here's how the system works
