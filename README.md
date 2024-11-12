@@ -63,17 +63,38 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
-<img src="https://github.com/user-attachments/assets/f46c0b96-97ed-4ac5-9c74-bcce7de9d3cb" width ="400" height="400" />
+<img src="https://github.com/user-attachments/assets/f46c0b96-97ed-4ac5-9c74-bcce7de9d3cb" width ="600" height="600" />
 
 
 ## PROGRAM
-<img src="https://github.com/user-attachments/assets/33a86e5d-afd9-496e-8073-496f24d2316e" width="400" height="400" />
 
+```
+void setup() {
+  
+ pinMode(13,OUTPUT);
+ pinMode(4,INPUT);
+}
+
+void loop() {
+ int buttonstatus=digitalRead(4);
+ if (buttonstatus==HIGH)
+ {
+
+  digitalWrite(13,HIGH);
+ }
+ else
+ {
+  digitalWrite(13,LOW);
+ }
+
+}
+
+```
 
 ## OUTPUT
 LED ON 
 
-<img src="https://github.com/user-attachments/assets/cf3bebf5-c5c0-460f-9642-139d8ead85fc" width="400" height="400" />
+<img src="https://github.com/user-attachments/assets/cf3bebf5-c5c0-460f-9642-139d8ead85fc" width="500" height="500" />
 
 
 LED OFF
@@ -83,5 +104,4 @@ LED OFF
 
 
 # RESULT
-The provided Arduino code illustrates a simple project where an LED is controlled by a push button. Here's how the system works
-Pin 13 is configured as an output to control the LED. This pin sends either a HIGH (on) or LOW
+The system of LED control was succesfully designed and implemented using an Arduino microcontroller and a push button.The system allows for the manual control of LED state to a simple press of the button
