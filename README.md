@@ -94,12 +94,12 @@ void loop() {
 ## OUTPUT
 LED ON 
 
-<img src="https://github.com/user-attachments/assets/cf3bebf5-c5c0-460f-9642-139d8ead85fc" width="400" height="400" />
+<img src="https://github.com/user-attachments/assets/cf3bebf5-c5c0-460f-9642-139d8ead85fc" width="600" height="500" />
 
 
 LED OFF
 
-<img src="https://github.com/user-attachments/assets/4e97a6c3-8541-42b0-8d3b-313bccd06c91" width="400" height="400" />
+<img src="https://github.com/user-attachments/assets/4e97a6c3-8541-42b0-8d3b-313bccd06c91" width="600" height="500" />
 
 
 
